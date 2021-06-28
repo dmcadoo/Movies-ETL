@@ -1,1 +1,1 @@
-db_password = 'bifc12'
+db_password = 'password1'
